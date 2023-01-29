@@ -5,7 +5,6 @@ A Google chrome extension built using vanilla JS
 - [Overview](#overview)
   - [Description](#description)
   - [Demo](#demo)
-  - [Links](#links)
 - [Built with](#built-with)
 - [Features](#features)
 - [Installation](#installation)
@@ -20,11 +19,6 @@ LinkShelf is a Google Chrome extension that allows you to save the links that yo
 
 ### Demo
 ![Demo](demo.gif)
-
-### Links
-
-- Solution URL: [Github](https://github.com/fatima-xs/space-travel-website)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
 
 ## Built with
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
